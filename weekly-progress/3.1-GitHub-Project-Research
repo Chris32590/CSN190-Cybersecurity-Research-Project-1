@@ -1,0 +1,57 @@
+#### GitHub Project Research
+### Topic 1: Automated Vulnerability Assessment Tool Development
+
+### GitHub Project 1:
+
+- Citation: kaster-san. (2025). Penhelper. GitHub. https://github.com/kaster-san/Penhelper
+- Type: Security Tool
+- Synopsis: This project is a Python-based automation tool designed for web security 
+assessment, penetration testing, and vulnerability detection. It has some modules on 
+technological detection, subdomain enumeration, endpoint detection, SQL injection 
+testing, security header analysis, DNS reconnaissance, and service scans. Penhelper has 3
+stars, 1 fork, and was last updated 2 years ago.
+- Link: https://github.com/kaster-san/Penhelper
+- Relevance: 5/5 – This source word for word follows what my topic is about!
+
+### GitHub Project 2:
+ Citation: Dibsy. (2018). SPSE: SecurityTube Python Scripting Expert Course Solutions 
+and Tools. GitHub. https://github.com/dibsy/SPSE
+ Type: Educational Framework
+ Synopsis: The SPSE repo is a automated Python tool collection for vulnerability 
+assessment and exploitation while offering supporting hands-on security scripting as well
+as solutions to their course problems. This project allow users to automate various 
+security tasks and gain practical experience in Python applied to security but, it requires 
+familiarity with Python and security concepts. The dependencies include Python and 
+relevant libraries for networking and system tasks. The repository has 124 stars, 51 forks,
+and it’s been 9 years since the last update.
+ Link: https://github.com/dibsy/SPSE
+ Relevance: 5/5 – I believe this is a strong source that teaches through modules how to 
+create and use the tool while also studying it’s exploitation.
+Topic 2: Digital Evidence Collection for Mobile Devices
+
+
+GitHub Project 1:
+ Citation: Mike Royal. (2025). Digital Forensics Guide. GitHub. 
+https://github.com/mikeroyal/Digital-Forensics-Guide
+ Type: Educational Framework
+ Synopsis: This resource covers digital forensics, including tools, libraries, and 
+frameworks for computers, mobile devices, network, and database forensics. Its main 
+feature is categorized sections on certifications, playbooks, virtualization, file systems, 
+and security tools, making it valuable for both beginners and professionals in the forensic
+field. This guide provides references to many software like Autopsy, The Sleuth Kit, and 
+Mobile Device Investigator. The project has 1.3k stars, 223 forks, and was last updated 2 
+years ago.
+ Link: https://github.com/mikeroyal/Digital-Forensics-Guide
+ Relevance: 5/5 – This repo gives more than just mobile device digital forensics, giving a 
+wide range of perspectives on how data is gathered. 
+GitHub Project 2:
+ Citation: 6abd. (2025). Horus. GitHub. https://github.com/6abd/horus
+ Type: Forensics Tool
+ Synopsis: This tool uses features like IP and MAC address tracking, phone number 
+lookup, crypto-wallet tracing, virus scanning, and file encryption. This is all provided as 
+a terminal-based toolkit for cybersecurity and investigative work. Limitations include 
+dependency on Python 3.11 and requirements for API keys (some are paid like Shodan). 
+The project has 363 stars, 42 forks, and was updated 10 months ago.
+ Link: https://github.com/6abd/horus
+ Relevance: 4/5 – This tool has various of features which gives insight into what a toolkit 
+would look like when tasked with gathering digital evidence.
